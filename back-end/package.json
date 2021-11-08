@@ -7,7 +7,7 @@
     "dev": "nodemon src/index.js"
   },
   "dependencies": {
-    "apollo-server": "^2.9.16",
+    "apollo-server": "^2.25.3",
     "axios": "^0.19.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
